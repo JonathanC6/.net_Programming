@@ -1,0 +1,8 @@
+D:\develop\CSProgram\MyWorks2\MyApp1a\MyApp1a\bin\Debug\MyApp1a.exe.config
+D:\develop\CSProgram\MyWorks2\MyApp1a\MyApp1a\bin\Debug\MyApp1a.exe
+D:\develop\CSProgram\MyWorks2\MyApp1a\MyApp1a\bin\Debug\MyApp1a.pdb
+D:\develop\CSProgram\MyWorks2\MyApp1a\MyApp1a\obj\Debug\MyApp1a.csproj.AssemblyReference.cache
+D:\develop\CSProgram\MyWorks2\MyApp1a\MyApp1a\obj\Debug\MyApp1a.csproj.SuggestedBindingRedirects.cache
+D:\develop\CSProgram\MyWorks2\MyApp1a\MyApp1a\obj\Debug\MyApp1a.csproj.CoreCompileInputs.cache
+D:\develop\CSProgram\MyWorks2\MyApp1a\MyApp1a\obj\Debug\MyApp1a.exe
+D:\develop\CSProgram\MyWorks2\MyApp1a\MyApp1a\obj\Debug\MyApp1a.pdb
