@@ -1,0 +1,8 @@
+D:\develop\CSProgram\MyWorks2\MyAppBank\MyAppBank\bin\Debug\MyAppBank.exe.config
+D:\develop\CSProgram\MyWorks2\MyAppBank\MyAppBank\bin\Debug\MyAppBank.exe
+D:\develop\CSProgram\MyWorks2\MyAppBank\MyAppBank\bin\Debug\MyAppBank.pdb
+D:\develop\CSProgram\MyWorks2\MyAppBank\MyAppBank\obj\Debug\MyAppBank.csproj.AssemblyReference.cache
+D:\develop\CSProgram\MyWorks2\MyAppBank\MyAppBank\obj\Debug\MyAppBank.csproj.SuggestedBindingRedirects.cache
+D:\develop\CSProgram\MyWorks2\MyAppBank\MyAppBank\obj\Debug\MyAppBank.csproj.CoreCompileInputs.cache
+D:\develop\CSProgram\MyWorks2\MyAppBank\MyAppBank\obj\Debug\MyAppBank.exe
+D:\develop\CSProgram\MyWorks2\MyAppBank\MyAppBank\obj\Debug\MyAppBank.pdb
