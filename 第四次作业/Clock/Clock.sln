@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clock", "Clock\Clock.csproj", "{C5693D0A-1991-46D2-930B-AF2C41DC9A0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5693D0A-1991-46D2-930B-AF2C41DC9A0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5693D0A-1991-46D2-930B-AF2C41DC9A0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5693D0A-1991-46D2-930B-AF2C41DC9A0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5693D0A-1991-46D2-930B-AF2C41DC9A0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D38DAE9-A01A-4596-BA02-1229004D220C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+D:\develop\CSProgram\MyWorks2\SourceFileApp\SourceFileApp\bin\Debug\SourceFileApp.exe.config
+D:\develop\CSProgram\MyWorks2\SourceFileApp\SourceFileApp\bin\Debug\SourceFileApp.exe
+D:\develop\CSProgram\MyWorks2\SourceFileApp\SourceFileApp\bin\Debug\SourceFileApp.pdb
+D:\develop\CSProgram\MyWorks2\SourceFileApp\SourceFileApp\obj\Debug\SourceFileApp.csproj.AssemblyReference.cache
+D:\develop\CSProgram\MyWorks2\SourceFileApp\SourceFileApp\obj\Debug\SourceFileApp.csproj.SuggestedBindingRedirects.cache
+D:\develop\CSProgram\MyWorks2\SourceFileApp\SourceFileApp\obj\Debug\SourceFileApp.Form1.resources
+D:\develop\CSProgram\MyWorks2\SourceFileApp\SourceFileApp\obj\Debug\SourceFileApp.Properties.Resources.resources
+D:\develop\CSProgram\MyWorks2\SourceFileApp\SourceFileApp\obj\Debug\SourceFileApp.csproj.GenerateResource.cache
+D:\develop\CSProgram\MyWorks2\SourceFileApp\SourceFileApp\obj\Debug\SourceFileApp.csproj.CoreCompileInputs.cache
+D:\develop\CSProgram\MyWorks2\SourceFileApp\SourceFileApp\obj\Debug\SourceFileApp.exe
+D:\develop\CSProgram\MyWorks2\SourceFileApp\SourceFileApp\obj\Debug\SourceFileApp.pdb
