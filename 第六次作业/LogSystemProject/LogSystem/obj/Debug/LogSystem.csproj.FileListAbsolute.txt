@@ -1,0 +1,8 @@
+D:\develop\CSProgram\MyWorks2\LogSystemProject\LogSystem\bin\Debug\LogSystem.exe.config
+D:\develop\CSProgram\MyWorks2\LogSystemProject\LogSystem\bin\Debug\LogSystem.exe
+D:\develop\CSProgram\MyWorks2\LogSystemProject\LogSystem\bin\Debug\LogSystem.pdb
+D:\develop\CSProgram\MyWorks2\LogSystemProject\LogSystem\obj\Debug\LogSystem.csproj.AssemblyReference.cache
+D:\develop\CSProgram\MyWorks2\LogSystemProject\LogSystem\obj\Debug\LogSystem.csproj.SuggestedBindingRedirects.cache
+D:\develop\CSProgram\MyWorks2\LogSystemProject\LogSystem\obj\Debug\LogSystem.csproj.CoreCompileInputs.cache
+D:\develop\CSProgram\MyWorks2\LogSystemProject\LogSystem\obj\Debug\LogSystem.exe
+D:\develop\CSProgram\MyWorks2\LogSystemProject\LogSystem\obj\Debug\LogSystem.pdb
